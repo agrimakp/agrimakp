@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=👋Hi,%20I'm%20Agrima&fontAlign=50&textBg=false&fontSize=28&descSize=23&descAlignY=51&fontAlignY=42&reversal=false" alt="👋 Hi There" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&textBg=false&fontSize=28&descSize=23&descAlignY=51&fontAlignY=42&reversal=false" alt="👋 Hi There" />
+</p>
+<p align="center">
+👋Hi, I'm Agrima
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
